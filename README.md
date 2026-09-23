@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://api.dicebear.com/7.x/notionists/svg?seed=lucasfcz&backgroundColor=0d1117" width="90" height="90" style="border-radius:50%"/>
-
 # Lucas Cabral
 
 `Desenvolvedor Backend Java`
