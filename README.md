@@ -4,7 +4,7 @@
 
 `Desenvolvedor Backend Java`
 
-Desenvolvedor backend focado no ecossistema **Java + Spring Boot**, construindo APIs RESTful escaláveis, pipelines com IA (Spring AI) e serviços protegidos com Spring Security/JWT. Estudante de ADS no IFPE Campus Paulista, medalhista na OPEI e membro da Liga Acadêmica de Engenharia de Software. Buscando oportunidades no ecossistema **Porto Digital** (Recife).
+Desenvolvedor backend focado no ecossistema **Java + Spring Boot**, construindo APIs RESTful. Estudante de ADS no IFPE Campus Paulista, medalhista na OPEI e membro da Liga Acadêmica de Engenharia de Software. Buscando oportunidades no ecossistema **Porto Digital** (Recife).
 
 <br/>
 
@@ -30,8 +30,8 @@ Desenvolvedor backend focado no ecossistema **Java + Spring Boot**, construindo 
 
 | | |
 |---|---|
-| **Java** | Linguagem de domínio e base — a primeira que aprendi, onde construí minha lógica de programação. Maior profundidade: Spring Boot, JPA, Security. |
-| **C++** | Programação competitiva (OPEI e treinos algorítmicos). |
+| **Java** | Linguagem de domínio: A primeira que aprendi, onde construí minha lógica de programação. Utilizo para criar APIs REST. |
+| **C++** | Programação competitiva (competições, ICPC e treinos algorítmicos). gosto das competições e uso elas para melhorar meus códigos e minha resolução de problemas. |
 | **TypeScript / React / Next / HTML / CSS** | Frontend em nível básico, com apoio de agentes de IA, para construir as interfaces que consomem as APIs feitas em Java + Spring Boot. |
 | **Python** | Nível básico, aprendido na faculdade, usado para scripts. |
 
