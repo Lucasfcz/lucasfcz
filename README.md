@@ -61,7 +61,7 @@ Tecnologias utilizadas como suporte aos projetos, principalmente para construir 
 ### Agentes de IA e Ferramentas de desenvolvimento
 
 <p>
-  <img src="antigravity.png" width="48" height="48" alt="Antigravity" />
+  <img src="antigravity.svg" width="48" height="48" alt="Antigravity" />
 </p>
 
 **Antigravity**
